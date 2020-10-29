@@ -81,4 +81,16 @@
 #         print('Your word' + word + 'Comes after banana')
 #  else:
 #        print('All right, they are  bananas')
- 
+
+# 
+# # 
+# # 
+# # Prints all words as lower case
+# greet = 'Hello Bob'
+# zap = greet.lower()
+# print(greet)
+# print(zap)
+# # lower() is a method
+# # Short form of printing words in lower case
+# print('Hi There' .lower())
+
