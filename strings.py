@@ -94,11 +94,39 @@
 # # Short form of printing words in lower case
 # print('Hi There' .lower())
 # 
+# # 
+# # 
+# # find() gets position of sub-string within string
+# fruit = 'banana'
+# pos = fruit.find('na')
+# print (pos)
+# aa= fruit.find('m') 
+# print(aa)
+
+# # 
+# # 
+# # 
+# # Stripping Whitespace
+# greet = ' Hello Bob '
+# # lstrip removes whitespace from the left while rstrip removes whitespace from the right
+# # strip removes from both sides
+# print(greet.lstrip())
+# print(greet.rstrip())
+# print(greet.strip())
+
+# # 
+# # 
+# # 
+# # Prefixes
+# # display word/letter that starts or ends in string
+# line= 'Please have a nice day'
+# print(line.startswith('Please'))
+# print(line.startswith('p'))
+# print(line.startswith('P'))
+# print(line.endswith('day'))
 # 
 # 
-# find() gets position of sub-string within string
-fruit = 'banana'
-pos = fruit.find('na')
-print (pos)
-aa= fruit.find('m')
-print(aa)
+# 
+# Parsing and extracting
+
+
