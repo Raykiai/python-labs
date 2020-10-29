@@ -127,6 +127,18 @@
 # 
 # 
 # 
-# Parsing and extracting
+# # 
+# # 
+# # Parsing and extracting
+# data = 'From rachael.kiai@gmail.ac.za Sat Jan 5 09:14:16 2019'
+# # position of character
+# atpost= data.find('@')
+# print(atpost)
+# # position of space after @
+# apost=data.find(' ', atpost)
+# print(apost)
+# # output words after @
+# host= data[atpost+1 : apost]
+# print(host)
 
 
