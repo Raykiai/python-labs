@@ -93,4 +93,12 @@
 # # lower() is a method
 # # Short form of printing words in lower case
 # print('Hi There' .lower())
-
+# 
+# 
+# 
+# find() gets position of sub-string within string
+fruit = 'banana'
+pos = fruit.find('na')
+print (pos)
+aa= fruit.find('m')
+print(aa)
