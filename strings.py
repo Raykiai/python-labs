@@ -61,10 +61,24 @@
 # print(s[:8])
 # print(s[:])
 
-# 
-# "in" is a logical expression that returns either true or false & is used in an if statement
-fruit='banana'
-if 'n' in fruit:
- print('Found it !')
-else: print('Doesnt exist')
+# # 
+# # "in" is a logical expression that returns either true or false & is used in an if statement
+# fruit='banana'
+# if 'n' in fruit:
+#  print('Found it !')
+# else: print('Doesnt exist')
 
+# # 
+# # 
+# # 
+# word = input("fruit name ")
+# if word == 'banana': 
+#  print('All bananas are ripe!')
+
+#  if word < 'banana':
+#      print('Your word' + word + 'Comes after banana')
+#  elif word > 'banana':
+#         print('Your word' + word + 'Comes after banana')
+#  else:
+#        print('All right, they are  bananas')
+ 
